@@ -1,0 +1,16 @@
+SUCCESS # <- GT4500 Primary fire Single
+SUCCESS # <- TORPEDO
+SUCCESS # <- TORPEDO
+FAIL    # <- TORPEDO
+SUCCESS # <- GT4500 Only Secondry Single
+SUCCESS # <- TORPEDO
+SUCCESS # <- TORPEDO
+FAIL    # <- TORPEDO
+SUCCESS # <- GT4500 Zero Ammo All
+FAIL    # <- TORPEDO
+SUCCESS # <- GT4500 Only Primary All
+SUCCESS # <- TORPEDO
+SUCCESS # <- GT4500 Only Secondry All
+SUCCESS    # <- TORPEDO
+SUCCESS # <- GT4500 Both All
+SUCCESS # <- TORPEDO
